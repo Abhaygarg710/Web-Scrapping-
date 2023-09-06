@@ -1,0 +1,1 @@
+# Web-Scrapping- IS a powerful tool to extract the insight data from a website, the files in this repository is a python code to extract geolocation data (Latitude, Longitude) from a particular website where we use different approach to extract data such as we use Python library i.e. beautifulsoup and we also use scrapy library    
